@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable react/jsx-no-comment-textnodes */
 /* eslint-disable spaced-comment */
 import {Component} from 'react'

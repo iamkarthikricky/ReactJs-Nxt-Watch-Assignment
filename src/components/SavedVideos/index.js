@@ -74,7 +74,7 @@ class SavedVideosRoute extends Component {
               No saved videos found
             </NoVideoHeading>
             <NoVideoPara color={textColor}>
-              Save your videos by clicking a button
+              You can save your videos while watching them
             </NoVideoPara>
           </NoVideosContainer>
         )

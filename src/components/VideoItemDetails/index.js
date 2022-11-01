@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 /* eslint-disable react/button-has-type */
 import {Component} from 'react'
 import ReactPlayer from 'react-player'
