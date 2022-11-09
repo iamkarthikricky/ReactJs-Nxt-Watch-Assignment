@@ -11,7 +11,6 @@ export const RouteNavigators = styled.ul`
   flex-direction: column;
   justify-content: space-between;
   flex-grow: 1;
-
   @media screen and (max-width: 767px) {
     display: none;
   }

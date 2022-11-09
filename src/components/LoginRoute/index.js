@@ -12,7 +12,7 @@ import {
   LoginButton,
   CheckBoxInput,
   ErrorMessage,
-} from './Styling'
+} from './styling'
 
 import NxtWatchContext from '../../Context/NxtWatchContext'
 
